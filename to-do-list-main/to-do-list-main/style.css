@@ -1,0 +1,58 @@
+*{
+    margin:0;
+    box-sizing: border-box;
+    
+    
+}
+main{
+    margin: 5% 38%; /*Center aligning */
+    border: 2px solid teal;
+    
+    height: auto;
+    width:442px;
+    padding: 10px;
+    text-align: center;
+    border-radius: 10px;
+    
+    background-color:transparent;
+}
+#txt1{
+    margin-bottom: 10px;
+}
+
+.container{
+ 
+    position: fixed;
+    
+    
+  
+    
+}
+
+.user{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.user:hover{
+    cursor: pointer;
+    font-weight: 700;
+}
+.log{
+    display: flex;
+    margin-left: 10px;
+}
+.log-btn{
+    border:1px solid rgb(60, 91, 121);
+    width: 4.75rem;
+    height: 2.4rem;
+    border-radius: 0.5rem;
+    background: none;
+}
+.log-btn:hover{
+    background-color: cornflowerblue;
+    color: white;
+    border: none;
+}
+.mg{
+    margin-left:0.25rem ;
+}

@@ -1,0 +1,17 @@
+body{
+    background-color: #71819e;
+}
+.md{
+    height: auto;
+    width:30%;
+    background-color: #76ABAE;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:10% auto;
+    flex-direction: column;
+    border-radius: 10px;
+}
+.ans{
+      text-align: center;
+}
